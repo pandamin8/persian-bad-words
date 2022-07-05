@@ -1,0 +1,16 @@
+{
+  "name": "persian-bad-words",
+  "version": "1.0.0",
+  "description": "checks persian offensive words",
+  "main": "badwords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "offensive-language",
+    "bad-words",
+    "cursing"
+  ],
+  "author": "",
+  "license": "ISC"
+}
